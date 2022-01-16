@@ -46,22 +46,20 @@ Veja a lista de componentes, images e links no final desse arquivo.
 
 | Qtde| Item              | Descrição       |
 | --- | ---               | ---             |
-| 01  | [ESP32-S2-WROOM](https://br.mouser.com/ProductDetail/356-ESP32S2WRM3200PH)    | MCU ESP32-S2    |
-| 02  | [667-EVQ-P0N02B](https://br.mouser.com/ProductDetail/667-EVQ-P0N02B)    | Push Button     |
-| 02  | [WSL080500000ZEA9](https://br.mouser.com/ProductDetail/71-WSL080500000ZEA9)  | Resistor 0Ohms  |
-| 04  | [TMCP1A106MTRF](https://br.mouser.com/ProductDetail/74-TMCP1A106MTRF)     | Capacitor 10uF  |
-| 03  | [885382207007](https://br.mouser.com/ProductDetail/710-885382207007)      | Capacitor 100nF |
-| 02  | [C0805C200J3GACTU](https://br.mouser.com/ProductDetail/80-C0805C200J3G)  | Capacitor 20pF  |
-| 01  | [C0805C105K4RAC7210](https://br.mouser.com/ProductDetail/80-C0805C105K4R7210)| Capacitor 1uF   |
-| 01  | [1N5819W-T](https://br.mouser.com/ProductDetail/583-1N5819W-T)         | Diode           |
-| 03  | [CPDUC5V0R-HF](https://br.mouser.com/ProductDetail/750-CPDUC5V0R-HF)      | Diode           |
-| 01  | [APT2012CGCK](https://br.mouser.com/ProductDetail/604-APT2012CGCK)       | LED             |
-| 01  | [4684](https://br.mouser.com/ProductDetail/485-4684)              | Neopixel RGB LED|
-| 01  | [NCP1117LPST33T3G](https://br.mouser.com/ProductDetail/863-NCP1117LPST33T3G)  | LDO             |
-| 01  | [20021121-00010C8LF](https://br.mouser.com/ProductDetail/649-200211210010C8LF)| Headers         |
-| 01  | [UJ2-MIBH-G-SMT-TR](https://br.mouser.com/ProductDetail/490-UJ2-MIBH-G-SMTTR) | USB Socket      |
-| 01  | [OLED Display](https://s.click.aliexpress.com/e/_Aa7ykQ)      | OLED Display    |
+| 01  | [712-BAT-HLD-001](https://br.mouser.com/ProductDetail/712-BAT-HLD-001)    | Suportes de bateria     |
+| 06  | [SML-P11DTT86R](https://br.mouser.com/ProductDetail/604-APHHS1005LSECKJ3)    | LEDs SMD Vermelho     |
+| 04  | [SML-P11DTT86R](https://br.mouser.com/ProductDetail/755-SML-P11DTT86R)  | LEDs SMD Vermelho Laranja  |
+| 05  | [APA2107LVBC/D](https://br.mouser.com/ProductDetail/604-APA2107LVBCD)     | LEDs SMD Azul Lateral  |
+| 01  | [CD4511BPWR](https://br.mouser.com/ProductDetail/595-CD4511BPW)              | Multiplexador|
+| 01  | [ATTINY85-20SUR](https://br.mouser.com/ProductDetail/556-ATTINY85-20SU)      | Microcontrolador |
+| 01  | [TL3780AF100QG](https://br.mouser.com/ProductDetail/612-TL3780AF100QG)  | Interruptores táteis  |
+| 01  | [CRCW04021K20JNTD](https://br.mouser.com/ProductDetail/80-C0805C105K4R7210)| Resistor 1.2k 0402  |
+| 01  | [CRGCQ0402F10K](https://br.mouser.com/ProductDetail/279-CRGCQ0402F10K)         | Resistor 10k 0402 |
+| 05  | [CR0402-FX-1501GLF](https://br.mouser.com/ProductDetail/652-CR0402FX-1501GLF)      | Resistor 1.5k 0402 |
+| 01  | [CR1206-FX-1501ELF](https://br.mouser.com/ProductDetail/652-CR1206FX-1501ELF)       | Resistor 1.5k 1206 |
+
+
 
 ### Links
-- [Carrinho de compras na Mouser](https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=1363e2b3dd)
+- [Carrinho de compras na Mouser](https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=011ca5f7fb)
 - [Projeto na PCBWay](https://www.pcbway.com/project/shareproject/Led_santa_claus_965c8ee7.html)
