@@ -1,7 +1,7 @@
 # PCB-Challenge-Santa-Claus
 Projeto de PCB desenvolvido para o Julialabs PCB Challange 2021, em que mostra as roupas que o Papai Noel usa em lugares muito quentes.
 
-<p align="center"><img src="Imagens/santatop.png" width="300px" /></p>
+<p align="center"><img src="Imagens/santatop.png" width="600px" /></p>
 
 # Rudolph a rena de nariz vermelho - Cartão de Natal IOT
 
@@ -34,8 +34,8 @@ Veja a lista de componentes, images e links no final desse arquivo.
 
 ## Imagens com os componetes 
 
-<p align="center"><img src = "Imagens/santatop3d.jpg" width = "100">
-<img src = "Imagens/santabuttom3d.jpg" width = "100"></p>
+<p align="center"><img src = "Imagens/santatop3d.jpg" width = "600">
+<img src = "Imagens/santabuttom3d.jpg" width = "600"></p>
 
 
 ## Esquemático
