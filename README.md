@@ -61,3 +61,7 @@ Veja a lista de componentes, images e links no final desse arquivo.
 | 01  | [20021121-00010C8LF](https://br.mouser.com/ProductDetail/649-200211210010C8LF)| Headers         |
 | 01  | [UJ2-MIBH-G-SMT-TR](https://br.mouser.com/ProductDetail/490-UJ2-MIBH-G-SMTTR) | USB Socket      |
 | 01  | [OLED Display](https://s.click.aliexpress.com/e/_Aa7ykQ)      | OLED Display    |
+
+### Links
+- [Carrinho de compras na Mouser](https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=1363e2b3dd)
+- [Projeto na PCBWay](https://www.pcbway.com/project/shareproject/Led_santa_claus_965c8ee7.html)
