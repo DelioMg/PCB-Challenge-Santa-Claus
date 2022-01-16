@@ -5,7 +5,7 @@ Projeto de PCB desenvolvido para o Julialabs PCB Challange 2021, em que mostra a
 
 ### Funcionamento
 
-A placa consiste em um attiny85 ligado ao um cd4511 para controlar 14 leds de tres cores:
+A placa consiste em um attiny85 ligado ao um cd4511 para controlar 14 leds de três cores:
 - 4 leds laranja que vão da iluminação de fundo.
 - 5 leds azul  que vai iluminar os símbolos da camisa.
 - 4 leds vermelhos para iluminar a frente da PCB
@@ -14,7 +14,7 @@ Os leds escolhidos são para aplicações de baixo consumo devido a alimentaçã
 
 Em que foi utilizado attiny85 com cd4511 para criar a alternância de cores, pois projeto é ligar primeiro os leds laranja, depois os vermelhos, depois os azul,depois todos ficarem ligados a mesmo tempo, depois alternando as cores. Podendo usar o botão para para alternar as ordem de iluminação do leds ou acordar o attiny85. 
 
-A principio a placa era para ter mais funções, mas devido ter esquecido de medir o tamanho na hora que estava desenhado novamente e so ter percebido que na hora que estava colocandos os componentes em que mesmo adicionando o saco de presentes para ter espaço para batereria ainda faltou espaço para colocar tudo. A placa ficou com as dimensões(em mm) abaixo:
+A principio a placa era para ter mais funções, mas devido ter esquecido de medir o tamanho na hora que estava desenhado novamente e só ter percebido na hora que estava colocando os componentes em que mesmo adicionando o saco de presentes para ter espaço para bateria ainda faltou espaço para colocar tudo. A placa ficou com as dimensões(em mm) abaixo:
 
 <p align="center"><img src="Imagens/dimensões.png" width="600px" /></p>
 
