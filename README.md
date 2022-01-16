@@ -32,7 +32,7 @@ A principio a placa era para ter mais funções, mas devido ter esquecido de med
 
 | Qtde| Item              | Descrição       |
 | --- | ---               | ---             |
-| 01  | [712-BAT-HLD-001](https://br.mouser.com/ProductDetail/712-BAT-HLD-001)    | Suportes de bateria     |
+| 01  | [712-BAT-HLD-001](https://br.mouser.com/ProductDetail/712-BAT-HLD-001)    | Suporte de bateria     |
 | 06  | [APHHS1005LSECK/J3-PF](https://br.mouser.com/ProductDetail/604-APHHS1005LSECKJ3)    | LED SMD Vermelho     |
 | 04  | [SML-P11DTT86R](https://br.mouser.com/ProductDetail/755-SML-P11DTT86R)  | LED SMD Vermelho Laranja  |
 | 05  | [APA2107LVBC/D](https://br.mouser.com/ProductDetail/604-APA2107LVBCD)     | LED SMD Azul Lateral  |
