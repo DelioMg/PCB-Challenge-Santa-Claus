@@ -1,5 +1,5 @@
 # PCB-Challenge-Santa-Claus
-Projeto de PCB desenvolvido para o Julialabs PCB Challange 2021, em que mostra as roupas que o Papai Noel usa em lugares muito quentes.
+Projeto de PCB desenvolvido para o Julialabs PCB Challange 2021, em que mostra a roupa que o Papai Noel usa em lugares muito quentes.
 
 <p align="center"><img src="Imagens/santatop.png" width="600px" /></p>
 
